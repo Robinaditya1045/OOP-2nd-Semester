@@ -60,7 +60,7 @@ class Results extends Sports {
     }
 }
 
-public class Q10_Grades {
+public class Q9_Grades {
     public static void main(String[] args) {
         Results studentResult = new Results("John", 101, 85, 75);
         studentResult.display();

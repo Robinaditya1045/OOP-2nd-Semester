@@ -32,7 +32,7 @@ class HourlyEmployee extends Employee {
     }
 }
 
-public class Q11_Salary {
+public class Q10_Salary {
     public static void main(String[] args) {
         WeeklyEmployee weeklyEmployee = new WeeklyEmployee(1000, 4);
         System.out.println("Amount to be paid to Weekly Employee: $" + weeklyEmployee.getAmount());

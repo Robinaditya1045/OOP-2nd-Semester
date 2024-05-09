@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/* 
+ 4)	Write an application to create a super class Employee with information first name & last name and methods getFirstName(), getLastName(). Derive the sub-classes ContractEmployee and RegularEmployee with the information about department, designation & method displayFullName() , getDepartment(), getDesig() to print the salary and to set department name & designation of the corresponding sub-class objects respectively.
+ */
+
+
+
 class Employee {
     private String firstName;
     private String lastName;

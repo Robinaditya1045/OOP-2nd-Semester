@@ -1,5 +1,13 @@
 import java.util.Scanner;
 
+/* 
+ 3)	Write a Java program to find Area and Circle of different shapes using polymorphism concept.* 
+ */
+
+
+
+
+
 abstract class Shape {
     abstract double area();
     abstract double circumference();

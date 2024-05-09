@@ -1,3 +1,13 @@
+
+/* 
+ 5)	Create an abstract class Shape which calculate the area and volume of 2-d and 3-d shapes with methods getArea() and getVolume(). Reuse this class to calculate the area and volume of square, circle, cube and sphere.
+ */
+
+
+
+
+
+
 abstract class Shape {
     abstract double getArea();
     abstract double getVolume();

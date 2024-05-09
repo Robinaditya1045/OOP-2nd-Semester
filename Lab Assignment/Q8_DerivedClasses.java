@@ -1,3 +1,8 @@
+/* 
+ * 8)	Derive a class named as CYLINDER from CIRCLE class. Take necessary data & member functions for this class to calculate the volume of the cylinder. Show the result by accessing the area method of circle and rectangle through object of rectangle class and the area of circle and volume method of cylinder class through the objects of cylinder class
+ */
+
+
 class Circle {
     protected double radius;
 
